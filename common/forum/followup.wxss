@@ -1,0 +1,144 @@
+
+.page__hd{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		padding-top: 70rpx;
+		-webkit-box-pack: justify;
+		-webkit-justify-content: space-between;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+		margin-left:5rpx;
+}
+.left{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;}
+.title{
+			
+			margin-top: 140rpx;
+			display: block;
+			height: 100rpx;
+			line-height: 100rpx;
+			background: #FFFFFF;
+			border-top: solid 1rpx #a7a7a7;
+			-webkit-box-shadow:5rpx 5rpx 10rpx #c0c0c0;
+			        box-shadow:5rpx 5rpx 10rpx #c0c0c0;
+}
+.title text{
+			font-family: ;
+			margin-left: 15rpx;
+}
+.reply1{
+			padding-top:15px ;
+			-webkit-box-shadow: 0px 5px 0px 0px #d0d0d0;
+			        box-shadow: 0px 5px 0px 0px #d0d0d0;
+}
+.header{
+			display: -webkit-box;
+			display: -webkit-flex;
+			display: -ms-flexbox;
+			display: flex;
+			-webkit-box-pack:justify;
+			-webkit-justify-content:space-between;
+			    -ms-flex-pack:justify;
+			        justify-content:space-between;
+}
+.name1 image{
+			width: 50px;
+			height: 50px;
+		   border-radius: 50%;
+		   display: -webkit-box;
+		   display: -webkit-flex;
+		   display: -ms-flexbox;
+		   display: flex;
+}
+.name1{
+			display: -webkit-box;
+			display: -webkit-flex;
+			display: -ms-flexbox;
+			display: flex;
+}
+.foot1{
+			display: -webkit-box;
+			display: -webkit-flex;
+			display: -ms-flexbox;
+			display: flex;
+}
+.zan1{
+			margin-left: 10rpx;
+			margin-right: 60rpx;
+}
+.recall{
+			height: 80rpx;
+			line-height: 80rpx;
+			-webkit-box-shadow: 0px 5px 0px 0px #d0d0d0;
+			        box-shadow: 0px 5px 0px 0px #d0d0d0;
+}
+.recall text{
+			
+margin-left: 10rpx;	
+	margin-right: 10rpx;
+}
+.reply{
+		padding-top:15px ;
+		-webkit-box-shadow: 0px 5px 0px 0px #d0d0d0;
+		        box-shadow: 0px 5px 0px 0px #d0d0d0;
+}
+.header{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack:justify;
+		-webkit-justify-content:space-between;
+		    -ms-flex-pack:justify;
+		        justify-content:space-between;
+}
+.name image{
+		width: 50px;
+		height: 50px;
+	   border-radius: 50%;
+	   display: -webkit-box;
+	   display: -webkit-flex;
+	   display: -ms-flexbox;
+	   display: flex;
+}
+.name{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+}
+.shuru{
+	
+		
+	 -webkit-flex-shrink: 0;
+	
+		
+	     -ms-flex-negative: 0;
+	
+		
+	         flex-shrink: 0;/**不能缩放*/
+            -webkit-box-flex: 0;
+            -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                    flex-grow: 0;/**不能缩放*/
+			position: absolute;
+			top: 1270rpx;
+}
+.input{
+		position:fixed;
+		height: 80rpx;
+}
+.input input{
+		height: 50rpx;
+		white:80rpx;
+		background: #f2f2f2;
+		margin-left: 12rpx;
+		border-radius: 10px;
+		line-height: 80px;
+}
+

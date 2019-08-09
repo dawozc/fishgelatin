@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "title": "/components/my/title",
+    "zan": "/components/my/zan",
+    "received": "/components/my/received"
+  }
+}

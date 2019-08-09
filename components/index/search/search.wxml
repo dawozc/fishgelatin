@@ -1,0 +1,1 @@
+<view class="serch-info"><navigator url="../../common/searchinfo/bzsearch" open-type="navigate"><input class="searchinput" type="text" placeholder="搜索帖子丶百科或专家"/><uni-icon vue-id="1" type bind:__l="__l"></uni-icon></navigator></view>

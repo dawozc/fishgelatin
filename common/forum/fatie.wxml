@@ -1,0 +1,1 @@
+<view><view class="page__hd" style="position:fixed;top:0;width:750rupx;"><view class="left"><uni-icon vue-id="1" type bind:__l="__l" vue-slots="{{['default']}}">返回</uni-icon><navigator url>房子</navigator></view><view class="search"><input type="text" value="请输入专家"/></view></view><view></view></view>

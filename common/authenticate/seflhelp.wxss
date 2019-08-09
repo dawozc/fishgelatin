@@ -1,0 +1,127 @@
+
+.page__hd{
+	
+	display: -webkit-box;
+	
+	display: -webkit-flex;
+	
+	display: -ms-flexbox;
+	
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	padding-top: 30rpx;
+}
+.top{
+	margin-left:5rpx;
+	height: 120rpx;
+	width: 750rpx;
+	background: #FFFFFF;
+}
+.left{
+display: -webkit-box;
+display: -webkit-flex;
+display: -ms-flexbox;
+display: flex;
+
+margin-left: 20rpx;
+}
+.search{
+	width:380rpx;
+}
+.shangchuan{
+	
+	height: 650rpx;
+	width: 750rpx;
+	
+	margin-bottom: 0rpx;
+	background: #FFFFFF;
+}
+.title{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-top: 20rpx;
+	padding-top: 15rpx;
+}
+.wenzi{
+	height: 80rpx;
+	width: 750rpx;
+	background: #FFFFFF;
+	line-height: 80rpx;
+	padding-left: 20rpx;
+	margin-bottom: 20rpx;
+}
+.reply{
+	padding-top:15px ;
+	
+	background: #FFFFFF;
+}
+.header{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack:justify;
+	-webkit-justify-content:space-between;
+	    -ms-flex-pack:justify;
+	        justify-content:space-between;
+}
+.name image{
+	width: 50px;
+	height: 50px;
+   border-radius: 50%;
+   display: -webkit-box;
+   display: -webkit-flex;
+   display: -ms-flexbox;
+   display: flex;
+}
+.name{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.wo{
+	font-size: 15px;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	margin-left:3px
+}
+.sj{
+	color:#d5cccc;
+	font-size: 12px;
+}
+.neirong{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	font-size: 15px;
+}
+.tupian image{
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	-webkit-box-pack:justify;
+	-webkit-justify-content:space-between;
+	    -ms-flex-pack:justify;
+	        justify-content:space-between;
+}
+.foot{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	font-size: 14px;
+	color:#999999
+}
+.pin{margin-left: 20px;}
+page{
+	background: #eeeeee;
+}
+

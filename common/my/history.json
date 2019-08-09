@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "浏览历史",
+  "usingComponents": {
+    "search": "/components/index/search/search"
+  }
+}

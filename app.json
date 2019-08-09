@@ -1,0 +1,61 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/forum/forum",
+    "pages/authenticate/authenticate",
+    "pages/my/my",
+    "common/cyclopedia/cyclopedia",
+    "common/searchinfo/bzsearch",
+    "common/searchinfo/afterthesearch",
+    "common/cyclopedia/conont",
+    "common/cyclopedia/encyclopedia",
+    "common/forum/content",
+    "common/forum/fatie",
+    "common/forum/followup",
+    "common/authenticate/seflhelp",
+    "common/authenticate/result",
+    "common/my/paging",
+    "common/my/history",
+    "common/my/collect"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#ffffff",
+    "color": "#C8C7CC",
+    "selectedColor": "#333333",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/首页点击后(1).png",
+        "selectedIconPath": "static/首页点击前(1).png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/forum/forum",
+        "iconPath": "static/论坛点击前(1).png",
+        "selectedIconPath": "static/论坛点击后(1).png",
+        "text": "论坛"
+      },
+      {
+        "pagePath": "pages/authenticate/authenticate",
+        "iconPath": "static/鉴定点击前(1).png",
+        "selectedIconPath": "static/鉴定点击后(1).png",
+        "text": "鉴定"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/我的点击前(1).png",
+        "selectedIconPath": "static/我的点击后(1).png",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

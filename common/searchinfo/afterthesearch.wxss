@@ -1,0 +1,191 @@
+
+page{
+	background: #ededed;
+}
+.toptab{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	
+	margin-top: 2px;
+	border: solid 1px #e8e8e8;
+	background: #FFFFFF;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	 -webkit-flex-wrap: wrap;
+	     -ms-flex-wrap: wrap;
+	         flex-wrap: wrap;
+	   text-align:center;
+}
+.navga{
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	    -ms-flex:1;
+	        flex:1;
+	font-size :15px;
+	color:#8b8b8b;
+	height: 40px;
+	line-height: 40px;
+}
+.card{
+	height: 250px;
+	margin-top:5px;
+	background: #FFFFFF;
+}
+.title{
+	padding-left: 20px;
+	font-size:13px;
+	color: #3f3f3f;
+	-webkit-box-pack:spacebetween ;
+	-webkit-justify-content:spacebetween ;
+	    -ms-flex-pack:spacebetween ;
+	        justify-content:spacebetween ;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.left{
+	-webkit-box-flex:5;
+	-webkit-flex:5;
+	    -ms-flex:5;
+	        flex:5
+}
+.right{
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	    -ms-flex:1;
+	        flex:1;
+	padding-left:0px;
+	color:#c7c7c7
+}
+.text1{
+	color:#66c45e
+}
+.name{
+	margin-top: 10px;
+	padding-left: 20px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.img image{
+	display: block;
+	width: 20px;
+	height: 20px;
+	border-radius: 5px;
+}
+.img{
+	width: 20px;
+	height: 20px;
+}
+.names{
+	font-size:13px;
+}
+.names text{
+	padding:3px
+}
+.content{
+	padding-left: 40px;
+}
+.content text{
+	font-size:14px;
+}
+.video{
+	width: 80px;
+	height: 130px;
+}
+.encyclopedia{
+	margin-top:8px;
+	background: #FFFFFF;
+	height: 165px;
+	padding-top: 15px;
+}
+.tittle{
+	font-size: 13px;
+	color:#404040;
+	padding-left: 20px;
+}
+.tittle text{
+	color:#40b836;
+	margin-top:20px;
+}
+.contont{
+	padding-left: 20px;
+	margin-top: 8px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.image image{
+	width:50px;
+	height: 50px;
+}
+.neirong{
+	margin-left: 5px;
+	font-size: 13px;
+	padding-left:10px;
+}
+.tuijian text{
+	margin-top: 8px;
+	font-size: 12px;
+}
+.zhonglei text{
+	font-size: 14px;
+	color:#6f81a4;
+	margin: 0 3px;
+}
+.explain{
+	margin-top:5px;
+	background: #FFFFFF;
+	height: 165px;
+	padding-top: 15px;
+	padding-left: 20px;
+}
+.titlee{
+	font-size: 15px;
+}
+.image{
+	margin-top: 8px;
+}
+.wenben{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.wenbena{
+	font-size:12px; 
+	margin-left:15px;
+}
+.dibu{
+
+display: -webkit-box;
+
+display: -webkit-flex;
+
+display: -ms-flexbox;
+
+display: flex;
+font-size: 10px;
+margin-left:15px;
+}
+.fabu-right{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+}
+.yuedu{
+	margin-left:100px;
+	
+	
+	background: #fef5ec;
+	color: #f7a24d;
+}
+

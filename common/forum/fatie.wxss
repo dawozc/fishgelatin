@@ -1,0 +1,29 @@
+
+.page__hd{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding-top: 30rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	margin-left:5rpx;
+	
+	background: #FFFFFF;
+	margin-top: 30rpx;
+}
+.left{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.search{
+	width: 350rpx;
+}
+page{
+	background: #f5f5f5;
+}
+

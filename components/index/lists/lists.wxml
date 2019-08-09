@@ -1,0 +1,2 @@
+<view class="list"><view class="top"><image class="header" src="../../../static/index/头像.jpg" mode></image><view class="yonghu"><view class="name">野生海鲜小哥</view><view class="sj">11：00</view></view></view><view class="down"><text class="content">此处显示最近一周的热门帖子，以瀑布流形式显示30条。
+                  50条热门帖子过后，显示查看全部的按钮，点击后可跳转到论坛板块。按钮下方显示热门资讯，按时间排序显示20条，显示完毕后可点击跳转到资讯网封装的小程序。</text><view class="main"><block wx:for="{{image}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="shopimg"><image class="imag" src="{{item.src}}"></image></view></block></view></view></view>

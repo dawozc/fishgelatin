@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "百科",
+  "usingComponents": {
+    "search": "/components/index/search/search"
+  }
+}
